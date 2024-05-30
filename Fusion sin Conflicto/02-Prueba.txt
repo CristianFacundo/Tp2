@@ -11,6 +11,7 @@ git add .: Agrega todos los archivos modificados y nuevos en el directorio actua
 
 git commit -m "Mensaje del commit": Crea un commit con un mensaje descriptivo de los cambios.
 
+git commit -am "Mensaje del commit": Agrega todos los archivos modificados y crea un commit con un mensaje en un solo comando (no incluye nuevos archivos).
 
 
 

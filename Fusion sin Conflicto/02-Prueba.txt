@@ -9,6 +9,8 @@ git add <nombre-del-archivo>: Agrega un archivo específico al área de preparac
 
 git add .: Agrega todos los archivos modificados y nuevos en el directorio actual al área de preparación.
 
+git commit -m "Mensaje del commit": Crea un commit con un mensaje descriptivo de los cambios.
+
 
 
 

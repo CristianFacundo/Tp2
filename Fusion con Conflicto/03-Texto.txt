@@ -37,7 +37,10 @@ Construcción de Imágenes
 docker build -t <nombre>:<tag> <directorio>: Construye una imagen desde un Dockerfile en el directorio especificado.
 docker commit <contenedor> <nombre>:<tag>: Crea una nueva imagen a partir de un contenedor.
 
-
+Información y Diagnóstico
+docker info: Muestra información detallada sobre la instalación de Docker.
+docker inspect <objeto>: Muestra información detallada sobre un contenedor, imagen, volumen o red.
+docker stats: Muestra estadísticas de uso en tiempo real para contenedores en ejecución.
 
 
 

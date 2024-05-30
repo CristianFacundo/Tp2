@@ -1,7 +1,7 @@
 uname -a: Muestra información sobre el sistema.
 history: Muestra el historial de comandos ejecutados
 
-
+wc: Cuenta líneas, palabras y caracteres en un archivo.
 
 
 

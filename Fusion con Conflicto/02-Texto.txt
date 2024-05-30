@@ -2,7 +2,7 @@ ping <host>: Envía paquetes ICMP ECHO_REQUEST a un host para comprobar la conec
 netstat: Muestra estadísticas de red, conexiones y puertos.
 ssh <usuario>@<host>: Conecta a un host remoto utilizando SSH.
 
-
+scp <origen> <destino>: Copia archivos entre hosts utilizando SSH.
 
 
 

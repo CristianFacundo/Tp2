@@ -1,0 +1,36 @@
+Navegación y Gestión de Archivos
+ls: Lista los archivos y directorios en el directorio actual.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

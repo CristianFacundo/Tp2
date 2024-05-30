@@ -32,7 +32,7 @@ docker ps -a: Lista todos los contenedores, incluyendo los detenidos.
 
 docker stop <contenedor>: Detiene un contenedor en ejecución.
 docker start <contenedor>: Inicia un contenedor detenido.
-
+docker restart <contenedor>: Reinicia un contenedor.
 
 
 

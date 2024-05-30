@@ -5,3 +5,5 @@ de que algo faltaba. Sentía que mi verdadera vocación no se encontraba en las 
 
 Durante este tiempo, descubrí el fascinante mundo de la programación.
 La lógica, la creatividad y la capacidad de resolver problemas complejos con líneas de código me atrajeron de inmediato.
+
+Tras mucho esfuerzo y dedicación, logré graduarme y conseguí mi primer trabajo como Desarrollador de Software JR.

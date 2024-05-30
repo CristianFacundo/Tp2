@@ -2,15 +2,13 @@ nuevo Archivo
 nano <nombre-del-archivo>: Abre un archivo en el editor de texto Nano.
 vim <nombre-del-archivo>: Abre un archivo en el editor de texto Vim.
 
-Permisos y Propiedades de Archivos
-chmod <permisos> <nombre-del-archivo>: Cambia los permisos de un archivo o directorio.
+chgrp <grupo> <nombre-del-archivo>: Cambia el grupo de un archivo o directorio.
 
-top: Muestra una vista dinámica de los procesos en ejecución.
-kill <pid>: Envía una señal para terminar un proceso con el ID especificado.
-killall <nombre-del-proceso>: Termina todos los procesos con el nombre especificado.
+chown <propietario>:<grupo> <nombre-del-archivo>: Cambia el propietario y grupo de un archivo o directorio.
 
-Red y Conectividad
-ifconfig: Muestra la configuración de las interfaces de red.
+ps: Muestra información sobre los procesos en ejecución.
+
+
 
 
 

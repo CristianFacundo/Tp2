@@ -1,0 +1,2 @@
+Trabajando con Ramas
+git branch: Lista todas las ramas en el repositorio y muestra la rama actual.

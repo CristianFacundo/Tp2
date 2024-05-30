@@ -5,7 +5,7 @@ Búsqueda y Filtrado
 grep <cadena> <archivo>: Busca una cadena de texto dentro de un archivo.
 
 find <directorio> -name <nombre-del-archivo>: Busca archivos por nombre en un directorio.
-
+locate <nombre-del-archivo>: Encuentra archivos por nombre en todo el sistema (requiere base de datos actualizada).
 
 
 

@@ -7,7 +7,8 @@ git push: Envía commits desde la rama actual al repositorio remoto.
 Deshacer Cambios
 git checkout -- <nombre-del-archivo>: Restaura un archivo modificado al estado del último commit.
 
-
+Otros Comandos Útiles
+git diff: Muestra las diferencias entre el área de trabajo y el área de preparación.
 
 
 

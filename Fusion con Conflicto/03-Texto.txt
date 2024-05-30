@@ -32,7 +32,8 @@ docker ps -a: Lista todos los contenedores, incluyendo los detenidos.
 
 docker exec -it <contenedor> <comando>: Ejecuta un comando en un contenedor en ejecución con una terminal interactiva.
 
-
+Volúmenes
+docker volume create <nombre>: Crea un volumen.
 
 
 

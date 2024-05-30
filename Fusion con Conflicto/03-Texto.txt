@@ -4,7 +4,7 @@ history: Muestra el historial de comandos ejecutados
 Búsqueda y Filtrado
 grep <cadena> <archivo>: Busca una cadena de texto dentro de un archivo.
 
-
+find <directorio> -name <nombre-del-archivo>: Busca archivos por nombre en un directorio.
 
 
 

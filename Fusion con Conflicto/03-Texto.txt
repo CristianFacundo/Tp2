@@ -30,6 +30,8 @@ docker run -it <imagen>: Ejecuta un contenedor en modo interactivo con una termi
 docker ps: Lista los contenedores en ejecución.
 docker ps -a: Lista todos los contenedores, incluyendo los detenidos.
 
+docker stop <contenedor>: Detiene un contenedor en ejecución.
+
 
 
 

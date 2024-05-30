@@ -26,7 +26,7 @@ mv <origen> <destino>: Mueve o renombra un archivo o directorio de origen a dest
 
 Visualización y Edición de Archivos
 cat <nombre-del-archivo>: Muestra el contenido de un archivo.
-
+less <nombre-del-archivo>: Muestra el contenido de un archivo, permitiendo la navegación hacia adelante y hacia atrás.
 
 
 

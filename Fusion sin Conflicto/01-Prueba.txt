@@ -22,7 +22,7 @@ mkdir <nombre-del-directorio>: Crea un nuevo directorio.
 rm <nombre-del-archivo>: Elimina un archivo.
 rm -r <nombre-del-directorio>: Elimina un directorio y su contenido de forma recursiva.
 cp <origen> <destino>: Copia un archivo o directorio de origen a destino.
-
+mv <origen> <destino>: Mueve o renombra un archivo o directorio de origen a destino.
 
 
 

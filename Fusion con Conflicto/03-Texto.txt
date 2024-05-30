@@ -35,7 +35,7 @@ docker restart <contenedor>: Reinicia un contenedor.
 
 Construcción de Imágenes
 docker build -t <nombre>:<tag> <directorio>: Construye una imagen desde un Dockerfile en el directorio especificado.
-
+docker commit <contenedor> <nombre>:<tag>: Crea una nueva imagen a partir de un contenedor.
 
 
 

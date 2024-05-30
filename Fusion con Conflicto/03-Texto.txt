@@ -13,7 +13,7 @@ uniq: Reporta o elimina líneas duplicadas consecutivas en un archivo.
 
 history: Muestra el historial de comandos ejecutados
 
-wc: Cuenta líneas, palabras y caracteres en un archivo.
+docker rm <contenedor>: Elimina un contenedor.
 
 Gestión de Imágenes
 docker pull <imagen>: Descarga una imagen desde un repositorio (por defecto Docker Hub).

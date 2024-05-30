@@ -39,6 +39,8 @@ Redes
 docker network create <nombre>: Crea una red.
 docker network ls: Lista las redes disponibles.
 
+docker network rm <nombre>: Elimina una red.
+
 
 
 

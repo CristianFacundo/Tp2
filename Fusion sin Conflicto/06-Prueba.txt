@@ -2,6 +2,7 @@ Navegación y Gestión de Archivos
 ls: Lista los archivos y directorios en el directorio actual.
 cd <directorio>: Cambia al directorio especificado.
 pwd: Muestra la ruta completa del directorio actual.
+mkdir <nombre-del-directorio>: Crea un nuevo directorio.
 
 
 

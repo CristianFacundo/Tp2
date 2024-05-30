@@ -9,7 +9,8 @@ Fusionar y Rebasar
 git merge <nombre-de-la-rama>: Fusiona la rama especificada con la rama actual.
 git rebase <nombre-de-la-rama>: Rebasar la rama actual sobre la rama especificada, reescribiendo el historial de commits.
 
-
+Remotos
+git remote add origin <url-del-repositorio>: Agrega un nuevo repositorio remoto con el nombre "origin" apuntando a la URL especificada.
 
 
 

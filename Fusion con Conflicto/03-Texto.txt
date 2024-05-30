@@ -1,0 +1,1 @@
+uname -a: Muestra información sobre el sistema.

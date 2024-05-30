@@ -3,3 +3,6 @@ Al principio, fue un desafío. Cambiar de campo y aprender nuevas habilidades de
 pero la pasión y la determinación me impulsaron a seguir adelante.
 Cada nuevo lenguaje de programación, cada algoritmo aprendido, y cada proyecto 
 completado reforzaban mi convicción de que había tomado la decisión correcta.
+
+Trabajo con Archivos
+git add <nombre-del-archivo>: Agrega un archivo específico al área de preparación (staging area).

@@ -1,7 +1,8 @@
 uname -a: Muestra información sobre el sistema.
 history: Muestra el historial de comandos ejecutados
 
-
+Búsqueda y Filtrado
+grep <cadena> <archivo>: Busca una cadena de texto dentro de un archivo.
 
 
 

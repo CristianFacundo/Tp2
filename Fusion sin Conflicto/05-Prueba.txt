@@ -1,0 +1,27 @@
+git remote -v: Lista todos los repositorios remotos configurados.
+git fetch: Descarga objetos y referencias desde el repositorio remoto.
+
+git pull: Trae y fusiona cambios desde el repositorio remoto a la rama actual.
+git push: Envía commits desde la rama actual al repositorio remoto.
+
+Deshacer Cambios
+git checkout -- <nombre-del-archivo>: Restaura un archivo modificado al estado del último commit.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

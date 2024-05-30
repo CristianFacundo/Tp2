@@ -4,7 +4,8 @@ ssh <usuario>@<host>: Conecta a un host remoto utilizando SSH.
 
 scp <origen> <destino>: Copia archivos entre hosts utilizando SSH.
 
-
+Compresión y Archivado
+tar -cvf <archivo.tar> <directorio>: Crea un archivo tar desde un directorio.
 
 
 

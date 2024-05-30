@@ -5,3 +5,5 @@ function test(){
     var c=document.getElementById("c").value;
     alert("El área es de "+(((a-c)*b/2)+(b*c))+" metros cuadrados");
 }  
+
+

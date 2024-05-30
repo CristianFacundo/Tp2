@@ -3,7 +3,7 @@ netstat: Muestra estadísticas de red, conexiones y puertos.
 ssh <usuario>@<host>: Conecta a un host remoto utilizando SSH.
 
 df -h: Muestra el uso del disco con formato legible por humanos.
-
+du -sh <directorio>: Muestra el tamaño de un directorio y su contenido.
 
 
 

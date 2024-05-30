@@ -13,12 +13,11 @@ uniq: Reporta o elimina líneas duplicadas consecutivas en un archivo.
 
 history: Muestra el historial de comandos ejecutados
 
-wc: Cuenta líneas, palabras y caracteres en un archivo.
+docker rm <contenedor>: Elimina un contenedor.
 
 Gestión de Imágenes
 docker pull <imagen>: Descarga una imagen desde un repositorio (por defecto Docker Hub).
-docker images: Lista las imágenes disponibles en el sistema local.
-docker rmi <imagen>: Elimina una imagen del sistema local.
+docker logs <contenedor>: Muestra los registros de un contenedor.
 
 Gestión de Contenedores
 docker run <imagen>: Crea y ejecuta un nuevo contenedor a partir de una imagen.
@@ -30,18 +29,15 @@ docker run -it <imagen>: Ejecuta un contenedor en modo interactivo con una termi
 docker ps: Lista los contenedores en ejecución.
 docker ps -a: Lista todos los contenedores, incluyendo los detenidos.
 
-docker exec -it <contenedor> <comando>: Ejecuta un comando en un contenedor en ejecución con una terminal interactiva.
+docker stop <contenedor>: Detiene un contenedor en ejecución.
+docker start <contenedor>: Inicia un contenedor detenido.
+docker restart <contenedor>: Reinicia un contenedor.
 
-Volúmenes
-docker volume create <nombre>: Crea un volumen.
 
-Redes
-docker network create <nombre>: Crea una red.
-docker network ls: Lista las redes disponibles.
 
-docker network rm <nombre>: Elimina una red.
-docker network connect <red> <contenedor>: Conecta un contenedor a una red.
-docker network disconnect <red> <contenedor>: Desconecta un contenedor de una red.
+
+
+
 
 
 

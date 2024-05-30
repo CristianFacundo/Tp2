@@ -6,3 +6,19 @@ completado reforzaban mi convicción de que había tomado la decisión correcta.
 
 Trabajo con Archivos
 git add <nombre-del-archivo>: Agrega un archivo específico al área de preparación (staging area).
+
+git add .: Agrega todos los archivos modificados y nuevos en el directorio actual al área de preparación.
+
+
+
+
+
+
+
+
+
+
+
+
+
+

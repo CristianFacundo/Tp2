@@ -1,3 +1,6 @@
 Configuración Inicial
 git config --global user.name "Tu Nombre": Configura tu nombre de usuario para todos los repositorios en tu sistema.
 git config --global user.email "tuemail@example.com": Configura tu correo electrónico para todos los repositorios en tu sistema.
+
+Crear y Clonar Repositorios
+git init: Inicializa un nuevo repositorio Git en el directorio actual

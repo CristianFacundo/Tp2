@@ -29,7 +29,7 @@ cat <nombre-del-archivo>: Muestra el contenido de un archivo.
 less <nombre-del-archivo>: Muestra el contenido de un archivo, permitiendo la navegación hacia adelante y hacia atrás.
 
 head <nombre-del-archivo>: Muestra las primeras líneas de un archivo.
-
+tail <nombre-del-archivo>: Muestra las últimas líneas de un archivo.
 
 
 

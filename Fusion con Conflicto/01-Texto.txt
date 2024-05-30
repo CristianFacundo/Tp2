@@ -1,1 +1,34 @@
 nuevo Archivo
+nano <nombre-del-archivo>: Abre un archivo en el editor de texto Nano.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

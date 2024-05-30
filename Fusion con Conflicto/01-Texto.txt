@@ -7,7 +7,7 @@ chmod <permisos> <nombre-del-archivo>: Cambia los permisos de un archivo o direc
 
 top: Muestra una vista dinámica de los procesos en ejecución.
 kill <pid>: Envía una señal para terminar un proceso con el ID especificado.
-
+killall <nombre-del-proceso>: Termina todos los procesos con el nombre especificado.
 
 
 

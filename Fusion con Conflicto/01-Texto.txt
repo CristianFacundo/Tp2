@@ -1,6 +1,6 @@
 nuevo Archivo
 nano <nombre-del-archivo>: Abre un archivo en el editor de texto Nano.
-
+vim <nombre-del-archivo>: Abre un archivo en el editor de texto Vim.
 
 
 

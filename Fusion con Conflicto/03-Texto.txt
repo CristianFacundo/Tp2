@@ -27,7 +27,7 @@ docker run -d <imagen>: Ejecuta un contenedor en segundo plano (modo "detached")
 
 docker run -it <imagen>: Ejecuta un contenedor en modo interactivo con una terminal.
 
-
+docker ps: Lista los contenedores en ejecución.
 
 
 

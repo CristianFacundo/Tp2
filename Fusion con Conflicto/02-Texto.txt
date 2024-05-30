@@ -1,5 +1,5 @@
 ping <host>: Envía paquetes ICMP ECHO_REQUEST a un host para comprobar la conectividad.
-netstat: Muestra estadísticas de red, conexiones y puertos.
+gzip <archivo>: Comprime un archivo usando gzip.
 ssh <usuario>@<host>: Conecta a un host remoto utilizando SSH.
 
 df -h: Muestra el uso del disco con formato legible por humanos.

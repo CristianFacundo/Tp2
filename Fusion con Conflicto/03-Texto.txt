@@ -8,7 +8,8 @@ docker pull <imagen>: Descarga una imagen desde un repositorio (por defecto Dock
 docker images: Lista las imágenes disponibles en el sistema local.
 docker rmi <imagen>: Elimina una imagen del sistema local.
 
-
+Gestión de Contenedores
+docker run <imagen>: Crea y ejecuta un nuevo contenedor a partir de una imagen.
 
 
 

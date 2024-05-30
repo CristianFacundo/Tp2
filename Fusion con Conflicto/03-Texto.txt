@@ -25,7 +25,7 @@ docker run <imagen>: Crea y ejecuta un nuevo contenedor a partir de una imagen.
 
 docker run -d <imagen>: Ejecuta un contenedor en segundo plano (modo "detached").
 
-
+docker run -it <imagen>: Ejecuta un contenedor en modo interactivo con una terminal.
 
 
 

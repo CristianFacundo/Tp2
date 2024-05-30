@@ -7,6 +7,7 @@ git checkout -b <nombre-de-la-rama>: Crea y cambia a una nueva rama en un solo c
 
 Fusionar y Rebasar
 git merge <nombre-de-la-rama>: Fusiona la rama especificada con la rama actual.
+git rebase <nombre-de-la-rama>: Rebasar la rama actual sobre la rama especificada, reescribiendo el historial de commits.
 
 
 

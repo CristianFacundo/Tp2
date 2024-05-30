@@ -24,6 +24,9 @@ rm -r <nombre-del-directorio>: Elimina un directorio y su contenido de forma rec
 cp <origen> <destino>: Copia un archivo o directorio de origen a destino.
 mv <origen> <destino>: Mueve o renombra un archivo o directorio de origen a destino.
 
+Visualización y Edición de Archivos
+cat <nombre-del-archivo>: Muestra el contenido de un archivo.
+
 
 
 

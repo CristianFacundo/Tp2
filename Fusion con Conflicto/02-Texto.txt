@@ -4,7 +4,7 @@ ssh <usuario>@<host>: Conecta a un host remoto utilizando SSH.
 
 df -h: Muestra el uso del disco con formato legible por humanos.
 du -sh <directorio>: Muestra el tamaño de un directorio y su contenido.
-
+free -h: Muestra la memoria libre y utilizada del sistema.
 
 
 

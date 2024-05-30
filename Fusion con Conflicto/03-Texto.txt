@@ -6,7 +6,7 @@ wc: Cuenta líneas, palabras y caracteres en un archivo.
 Gestión de Imágenes
 docker pull <imagen>: Descarga una imagen desde un repositorio (por defecto Docker Hub).
 docker images: Lista las imágenes disponibles en el sistema local.
-
+docker rmi <imagen>: Elimina una imagen del sistema local.
 
 
 

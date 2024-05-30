@@ -35,7 +35,9 @@ docker exec -it <contenedor> <comando>: Ejecuta un comando en un contenedor en e
 Volúmenes
 docker volume create <nombre>: Crea un volumen.
 
-
+Redes
+docker network create <nombre>: Crea una red.
+docker network ls: Lista las redes disponibles.
 
 
 

@@ -11,7 +11,7 @@ docker rmi <imagen>: Elimina una imagen del sistema local.
 Gestión de Contenedores
 docker run <imagen>: Crea y ejecuta un nuevo contenedor a partir de una imagen.
 
-
+docker run -d <imagen>: Ejecuta un contenedor en segundo plano (modo "detached").
 
 
 

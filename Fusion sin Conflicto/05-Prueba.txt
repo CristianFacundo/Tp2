@@ -1,1 +1,24 @@
 git remote -v: Lista todos los repositorios remotos configurados.
+git fetch: Descarga objetos y referencias desde el repositorio remoto.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

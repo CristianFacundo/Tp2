@@ -17,6 +17,8 @@ git status: Muestra el estado de los archivos en el directorio de trabajo y en e
 
 git log: Muestra el historial de commits en el repositorio
 
+git log --oneline: Muestra el historial de commits en un formato compacto de una línea por commit.
+
 
 
 

@@ -1,0 +1,1 @@
+ping <host>: Envía paquetes ICMP ECHO_REQUEST a un host para comprobar la conectividad.

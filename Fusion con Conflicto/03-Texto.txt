@@ -40,7 +40,7 @@ docker network create <nombre>: Crea una red.
 docker network ls: Lista las redes disponibles.
 
 docker network rm <nombre>: Elimina una red.
-
+docker network connect <red> <contenedor>: Conecta un contenedor a una red.
 
 
 

@@ -9,7 +9,8 @@ top: Muestra una vista dinámica de los procesos en ejecución.
 kill <pid>: Envía una señal para terminar un proceso con el ID especificado.
 killall <nombre-del-proceso>: Termina todos los procesos con el nombre especificado.
 
-
+Red y Conectividad
+ifconfig: Muestra la configuración de las interfaces de red.
 
 
 

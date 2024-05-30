@@ -3,6 +3,7 @@ git branch: Lista todas las ramas en el repositorio y muestra la rama actual.
 
 git branch <nombre-de-la-rama>: Crea una nueva rama con el nombre especificado.
 git checkout <nombre-de-la-rama>: Cambia a la rama especificada.
+git checkout -b <nombre-de-la-rama>: Crea y cambia a una nueva rama en un solo comando.
 
 
 

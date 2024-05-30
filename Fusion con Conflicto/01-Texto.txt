@@ -2,8 +2,7 @@ nuevo Archivo
 nano <nombre-del-archivo>: Abre un archivo en el editor de texto Nano.
 vim <nombre-del-archivo>: Abre un archivo en el editor de texto Vim.
 
-Permisos y Propiedades de Archivos
-chmod <permisos> <nombre-del-archivo>: Cambia los permisos de un archivo o directorio.
+chgrp <grupo> <nombre-del-archivo>: Cambia el grupo de un archivo o directorio.
 
 chown <propietario>:<grupo> <nombre-del-archivo>: Cambia el propietario y grupo de un archivo o directorio.
 

@@ -13,3 +13,33 @@ colaborar con otros desarrolladores talentosos y seguir aprendiendo cada día.
 Hoy, miro hacia atrás con orgullo y satisfacción. El camino no ha sido sencillo, pero cada paso ha valido la pena.
 Mi experiencia como programador me ha permitido no solo crecer profesionalmente, 
 sino también encontrar un sentido profundo de realización personal.
+
+git reset HEAD <nombre-del-archivo>: Quita un archivo del área de preparación.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

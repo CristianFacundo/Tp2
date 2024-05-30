@@ -6,7 +6,7 @@ chgrp <grupo> <nombre-del-archivo>: Cambia el grupo de un archivo o directorio.
 
 chown <propietario>:<grupo> <nombre-del-archivo>: Cambia el propietario y grupo de un archivo o directorio.
 
-
+ps: Muestra información sobre los procesos en ejecución.
 
 
 

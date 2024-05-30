@@ -15,6 +15,8 @@ git commit -am "Mensaje del commit": Agrega todos los archivos modificados y cre
 
 git status: Muestra el estado de los archivos en el directorio de trabajo y en el área de preparación.
 
+git log: Muestra el historial de commits en el repositorio
+
 
 
 
